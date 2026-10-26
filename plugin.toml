@@ -1,0 +1,11 @@
+id = "hello"
+name = "Hello"
+version = "0.1.0"
+api_version = 1
+requires_slidemage = ">=9.0"
+summary = "A sample plugin for testing the SlideMage plugin catalogue. It does nothing."
+author = "Stefan Palan"
+homepage = "https://github.com/stpalan/slidemage-plugin-hello"
+license = "GPL-3.0-or-later"
+needs = []
+network = []
