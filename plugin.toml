@@ -1,6 +1,6 @@
 id = "hello"
 name = "Hello"
-version = "0.2.0"
+version = "0.3.0"
 api_version = 1
 requires_slidemage = ">=9.0"
 summary = "A sample plugin for testing the SlideMage plugin catalogue. It does nothing."
